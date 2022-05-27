@@ -1,1 +1,1 @@
-This is Minghao's Code of Conduct
+This is everyone's Code of Conduct
