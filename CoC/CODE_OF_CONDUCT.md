@@ -1,2 +1,2 @@
-This is everyone's Code of Conduct
+This is everyone's project
 Best open source project
