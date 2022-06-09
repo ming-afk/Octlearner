@@ -1,1 +1,1 @@
-this is coC
+this is code of conduct
