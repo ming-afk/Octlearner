@@ -1,1 +1,1 @@
-This is a CoC file
+This is a Code of conduct file
