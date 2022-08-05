@@ -11,7 +11,10 @@ A primary goal of Octlearner is to be inclusive to the largest number of contrib
 added something
 
 another line
-[2]This code of conduct[0] outlines our unexpected many expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+
+third line
+
+[3]This code of conduct[0] outlines our unexpected many expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
 We invite all those who participate in Octlearner to help us create safe and positive experiences for everyone.
 
