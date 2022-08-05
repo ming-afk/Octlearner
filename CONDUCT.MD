@@ -8,6 +8,7 @@ my purpose
 A primary goal of Octlearner is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 
+added something
 [1]This codes of conduct[0] outlines our unexpected many expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
 We invite all those who participate in Octlearner to help us create safe and positive experiences for everyone.
